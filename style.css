@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(207, 156, 205);
+  font-family: Arial;
+  font-size: 20px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.first {
+  color: rgb(28, 184, 23);
+}
+.second {
+  margin-bottom: 50px;
+}
+#your-name {
+  background-color: rgb(225, 220, 105);
+  border: 5px solid #444;
+  width: 400px;
+  padding: 25px;
+  margin-top: 50px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+a {
+  background-color: yellowgreen;
+}
+
+#JonFace-Image {
+  width: 200px;
+}
+
+#your-name h2 {
+  color: #964b00;
+}
